@@ -18,5 +18,15 @@ Additionally, an AR glasses can be connected to user's smartphone and can provid
 
 | Robot                       | Server                        | App                     |
 |-----------------------------|-------------------------------|-------------------------|
-|![RobotGif](images/robot.gif)|![ServerGif](images/server.gif)|![AppGif](images/app.gif)|
-|[Repository](https://github.com/Guerilla-Coders/Delievery-Arcade-Agent)|[Repository](https://github.com/Guerilla-Coders/Delivery-Arcade-Server)|[Repository](https://github.com/Guerilla-Coders/Delivery-Arcade-App)|
+|![RobotGif](/images/robot.gif)|![ServerGif](/images/server.gif)|![AppGif](/images/app.gif)|
+|[Link to repository](https://github.com/Guerilla-Coders/Delievery-Arcade-Agent)|[Link to repository](https://github.com/Guerilla-Coders/Delivery-Arcade-Server)|[Link to repository](https://github.com/Guerilla-Coders/Delivery-Arcade-App)|
+
+The robot can be controlled without actually looking at it and can perform various tasks such as opening and closing its lid.
+
+| Food receiving & Departure | Arrival & Food Delivering | Out of sight driving |
+|----------------------------|---------------------------|----------------------|
+|![driving_departure](/images/driving_departure.gif)|![driving_arrival](/images/driving_arrival.gif)|![driving_controller](/images/driving_controller.gif)|
+
+| Opening | Closing |
+|---------|---------|
+|![lid_opening](/images/lid_opening.gif)|![lid_closing](/images/lid_closing.gif)|
