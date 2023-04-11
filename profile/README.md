@@ -18,15 +18,15 @@ Additionally, an AR glasses can be connected to user's smartphone and can provid
 
 | Robot                       | Server                        | App                     |
 |-----------------------------|-------------------------------|-------------------------|
-|![RobotGif](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/robot.gif)|![ServerGif](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/server.gif)|![AppGif](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/app.gif)|
+|![RobotGif](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/robot_resized.gif)|![ServerGif](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/server_resized.gif)|![AppGif](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/app_resized.gif)|
 |[Link to repository](https://github.com/Guerilla-Coders/Delievery-Arcade-Agent)|[Link to repository](https://github.com/Guerilla-Coders/Delivery-Arcade-Server)|[Link to repository](https://github.com/Guerilla-Coders/Delivery-Arcade-App)|
 
 The robot can be controlled without actually looking at it and can perform various tasks such as opening and closing its lid.
 
 | Food receiving & Departure | Arrival & Food Delivering | Out of sight driving |
 |----------------------------|---------------------------|----------------------|
-|![driving_departure](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/driving_departure.gif)|![driving_arrival](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/driving_arrival.gif)|![driving_controller](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/driving_controller.gif)|
+|![driving_departure](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/driving_departure_resized.gif)|![driving_arrival](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/driving_arrival_resized.gif)|![driving_controller](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/driving_controller_resized.gif)|
 
 | Opening | Closing |
 |---------|---------|
-|![lid_opening](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/lid_opening.gif)|![lid_closing](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/lid_closing.gif)|
+|![lid_opening](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/lid_opening_resized.gif)|![lid_closing](https://raw.githubusercontent.com/Guerilla-Coders/.github/main/images/lid_closing_resized.gif)|
